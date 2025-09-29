@@ -1,2 +1,2 @@
-# cloud-microservices
-Demonstration of containerised e-commerce microservices deployed to the cloud
+# aks-task-manager
+Demonstration of a task manager using a cluster microservices deployed in containers
